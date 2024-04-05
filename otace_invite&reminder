@@ -1,0 +1,32 @@
+#INVITE
+Prezado  ${m://FirstName}. 
+Para melhorar continuamente os nossos serviços, a Capgemini utiliza o OTACE, processo de avaliação da satisfação do cliente, para monitorizar a nossa qualidade e pontualidade (pontualidade na entrega).
+Desta forma, gostaríamos de sua avaliação a respeito dos serviços prestados pela Capgemini para ${e://Field/Customer%20Name} , contratado (a) sob a gestão de ${e://Field/Engagement%20Manager} .
+Caso você avaliou algum critério com pontuação abaixo de 3,0, agradeceríamos se você incluísse um comentário para nos ajudar a definir as ações de melhoria necessárias
+Seu feedback é muito importante para a Capgemini!
+
+${l://SurveyLink?d=Para%20responder%20a%20pesquisa%20clique%20aqui}
+
+Atenciosamentre,
+Capgemini - Equipe OTACE
+
+${l://OptOutLink?d=Caso%20n%C3%A3o%20queira%20mais%20receber%20este%20email,%20clique%20aqui}
+
+#REMINDER
+Prezado Sr . ${m://FirstName} ,
+Aguardamos suas respostas e considerações na pesquisa de satisfação OTACE.
+
+É por meio da sua avaliação que analisamos as nossas entregas e, se for necessário, efetuamos ações para a melhoria dos nossos serviços.
+
+Antecipadamente agradecemos a sua atenção!
+
+
+${l://SurveyLink?d=Para%20responder%20a%20pesquisa%20clique%20aqui}
+
+Atenciosamentre,
+Capgemini - Equipe OTACE
+
+${l://OptOutLink?d=Caso%20n%C3%A3o%20queira%20mais%20receber%20este%20email,%20clique%20aqui}
+
+
+${date://CurrentDate/c}
