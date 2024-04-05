@@ -1,0 +1,28 @@
+#INVITE
+Prezado ${m://FirstName}
+
+Precisamos que você preencha as informações do cliente para progredir com a Pesquisa de cliente OTACE.
+É por meio dessa avaliação que analisamos nossas entregas e, se necessário, tomamos medidas para melhorar nossos serviços.
+Agradecemos sua atenção antecipadamente!
+
+${l://SurveyLink?d=OTACE%20Survey}
+
+Atenciomamente,
+Capgemini - Equipe OTACE
+
+${l://OptOutLink}
+
+#REMINDER
+Prezado ${m://FirstName}
+
+Ainda não recebemos as informações do cliente (${e://Field/Engagement%20Local%20Reference})para progredir com a Pesquisa de cliente OTACE.
+É por meio dessa avaliação que analisamos nossas entregas e, se necessário, tomamos medidas para melhorar nossos serviços.
+Agradecemos sua atenção antecipadamente!
+
+${l://SurveyLink?d=Para%20cadastrar%20os%20dados%20do%20Engagement%20clique%20aqui}
+
+Atenciomamente,
+Capgemini - Equipe OTACE
+
+
+${l://OptOutLink}
